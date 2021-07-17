@@ -7,11 +7,12 @@ Install Tools...
 
 2- pkg install git
 
-3- git clone https://github.com/salammzere3/facebook
+3- git clone https://github.com/salammzere3/IRAQV2
 
-4- cd facebook
+4- cd IRAQV2
 
 5- python install.py
+
 
 Join Channel Telegram...
 
